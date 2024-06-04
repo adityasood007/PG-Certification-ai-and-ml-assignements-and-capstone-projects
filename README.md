@@ -1,1 +1,1 @@
-# DS_course
+# Ai_and_ml course
